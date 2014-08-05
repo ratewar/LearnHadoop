@@ -1,0 +1,30 @@
+Oracle virtual box for windows
+https://www.virtualbox.org/wiki/Downloads
+
+Java for linux
+http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html#jdk-6u45-oth-JPR
+
+
+Ubuntu 14.04
+http://releases.ubuntu.com/14.04/ubuntu-14.04-desktop-i386.iso
+
+Winscp for windows (Latest Version)
+http://winscp.net/eng/download.php
+
+Eclipse for windows (Latest Version)
+https://www.eclipse.org/downloads/
+
+Hadoop tar-ball (CDH3U5)
+http://archive.cloudera.com/cdh/3/hadoop-0.20.2-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/flume-ng-1.2.0-cdh3u5.tar.gz	
+http://archive.cloudera.com/cdh/3/hbase-0.90.6-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/hive-0.7.1-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/pig-0.8.1-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/sqoop-1.3.0-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/oozie-2.3.2-cdh3u5.tar.gz
+http://extjs.com/deploy/ext-2.2.zip --required for oozie
+http://archive.cloudera.com/cdh/3/mahout-0.5-cdh3u5.tar.gz
+http://archive.cloudera.com/cdh/3/zookeeper-3.3.5-cdh3u5.tar.gz
+
+
+
