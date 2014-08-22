@@ -3,11 +3,7 @@ LearnHadoop
 
 Tutorial repository for Hadoop and Hadoop Ecosystem Projects
 
-HadoopExamples directory will contain the complete code for the Hadoop Code Examples
-
-To build the examples on your local machine, please ensure maven is installed and once you copy the folder at your local machine then run following commands
-
-mvn compile followed by mvn package which will create HadoopExamples-1.0-SNAPSHOT.jar in target folder
+HadoopExamples directory will contain the code samples.
 
 How to run wordcount example
 
