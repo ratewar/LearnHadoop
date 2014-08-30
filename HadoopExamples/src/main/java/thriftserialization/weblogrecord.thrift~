@@ -1,0 +1,9 @@
+namespace java thriftserialization
+
+struct WeblogRecord {
+1: optional string cookie,
+2: string page,
+3: i64 timestamp,
+4: string ip
+}
+
